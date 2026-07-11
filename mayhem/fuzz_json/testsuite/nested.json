@@ -1,0 +1,1 @@
+{"engine_kind": "cpu", "fpmath_mode": "strict", "passes": [{"pass_name": "fuse_relu", "priority": 5, "enable": true}, {"pass_name": "fold_const", "priority": 1, "enable": false}]}
